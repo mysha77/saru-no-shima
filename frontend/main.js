@@ -31,7 +31,7 @@ var quests = [
 
 var characters = {
   "Alex": "http://86bb71d19d3bcb79effc-d9e6924a0395cb1b5b9f03b7640d26eb.r91.cf1.rackcdn.com/wp-content/uploads/2013/07/super-smash-bros-wii-u-and-3ds-kirby-artwork.jpg",
-  "Sam": "https://cdn1.iconfinder.com/data/icons/free-large-boss-icon-set/128/Uncle_Sam.png"
+  "Sam": "http://media.tumblr.com/739694232ec9619aa2a52a6c20367a7b/tumblr_inline_mqpq64bDVh1s6nptv.jpg"
 };
 
 var infowindow = new google.maps.InfoWindow({
